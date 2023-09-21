@@ -39,13 +39,13 @@ section {
 
 /* Estilos para imágenes */
 img {
-    max-width: 100%;
+    max-width: 30%;
     height: auto;
 }
 
 /* Estilos para iframes de video */
 iframe {
-    width: 100%;
+    width: 30%;
     height: 315px;
     margin-top: 10px;
 }
@@ -80,7 +80,7 @@ textarea {
 }
 
 input[type="submit"] {
-    background-color: #a30000;
+    background-color: green;
     color: #fff;
     padding: 10px 20px;
     border: none;
@@ -89,12 +89,12 @@ input[type="submit"] {
 }
 
 input[type="submit"]:hover {
-    background-color: #5b0000;
+    background-color:green;
 }
 
 /* Estilos para el footer */
 footer {
-    background-color: #a30000;
+    background-color:green;
     color: #fff;
     text-align: center;
     padding: 20px 0;
